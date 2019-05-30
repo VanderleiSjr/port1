@@ -1,0 +1,23 @@
+header{
+    height: 300px;
+}
+
+
+.header-intro {
+    height: 260px;
+    display: inline-block;
+}
+
+.profile-pic {
+    height: 210px;
+    width: 30%;
+}
+.profile-txt {
+    width: 70%;
+    height: 260;
+}
+
+.profile-pic img{
+    border-radius: 20% 40% 20% 40%;
+}
+
